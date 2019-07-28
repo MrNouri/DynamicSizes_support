@@ -19,6 +19,6 @@ allprojects {
  Add the dependency in your app build.gradle
  ```
 dependencies {
-   implementation 'com.github.MrNouri:DynamicSizes_support:1.0_support'
+   implementation 'com.github.MrNouri:DynamicSizes_support:1.0'
 }
  ```
